@@ -3,7 +3,7 @@ OCR Scanner with back camera as default
 Use tesseract engine
 
 ## Example:
-
+````
 import streamlit as st  
 from streamlit_tesseract_scanner import tesseract_scanner
 
@@ -12,4 +12,4 @@ data = tesseract_scanner(showimg=False, lang='vie+eng', blacklist=blacklist, psm
 
 if data is not None:  
     st.write(data)
-    
+````

@@ -2,7 +2,7 @@
 OCR Scanner with back camera as default  
 Use tesseract engine
 
-## Install:
+## Installation:
 ````
 pip install streamlit_tesseract_scanner  
 ````

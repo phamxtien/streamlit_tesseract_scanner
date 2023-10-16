@@ -1,6 +1,7 @@
 # streamlit_tesseract_scanner
 OCR Scanner with back camera as default  
 Use tesseract engine 
+
 Notes: It only works with https 
 
 ## Installation:
